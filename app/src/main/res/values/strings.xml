@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">SUPERHEROES</string>
+    <string name="hero1">Mujer Maravilla</string>
+    <string name="description1">No me gusta</string>
+    <string name="hero2">Spiderman</string>
+    <string name="description2">Me gusta</string>
+    <string name="hero3">Wolverine</string>
+    <string name="description3">Me gusta</string>
+    <string name="hero4">Dr Octopus</string>
+    <string name="description4">Me gusta</string>
+    <string name="hero5">Batman</string>
+    <string name="description5">No me gusta</string>
+    <string name="hero6">Flash</string>
+    <string name="description6">Me gusta</string>
+</resources>
